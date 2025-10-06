@@ -1,3 +1,6 @@
+# Deprecation Notice
+This repository is no longer maintained after the NUM-RDP project endet (30.06.2025). We would like to thank everyone who has contributed to this archived version with code contributions, issues or comments.
+
 # CODEX Processes
 
 Business processes for the NUM CODEX project (AP2) as plugins for the [HiGHmed Data Sharing Framework][1].
